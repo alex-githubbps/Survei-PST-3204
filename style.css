@@ -1,0 +1,5 @@
+body {font-family: Arial; background:#f5f7fb;}
+.container {max-width:900px; margin:20px auto; background:white; padding:20px; border-radius:8px;}
+h1 {color:#0059a9; text-align:center;}
+.subtitle {text-align:center; color:#555;}
+button {padding:10px 20px; background:#0059a9; color:white; border:0; border-radius:4px;}
